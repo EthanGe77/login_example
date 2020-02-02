@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  margin: auto;
+  width: 400px;
+  height: 500px;
+}
+.container input {
+  width: 80%;
+  margin-bottom: 30px;
+}
+.container button {
+  width: 60%;
+  height: 50px;
+  border: none;
+  background-color: red;
+  border-radius: 50px;
+}
+
+.notification {
+  color: red;
+}
